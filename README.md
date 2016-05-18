@@ -1,5 +1,5 @@
 # iSign
-## Democratising iBeacons for the masses
+## Democratising iBeacons
 
 iBeacons are already in retail for major brands, but following Apples usage guidelines ultimately limits their impact. Apple's vision for iBeacons is focused on larger brands and results in a model where one iBeacon UUID ==> One App ==> One Brand.
 
@@ -18,9 +18,9 @@ Ultimately iBeacon deployment will be limited by ther vertical model recommended
 
 If iBeacons are going to scale and alternative model is needed that meets these three requirements:
 
-1) Consumers should have control over when they are engaged and what type of engagements they get.
-2) Smaller brands and retailers should be able to deploy and use iBeacons at very low total cost.
-3) Houshold brands should still be able to engage directly with consumers.
+ 1) Consumers should have control over when they are engaged and what type of engagements they get.
+ 2) Smaller brands and retailers should be able to deploy and use iBeacons at very low total cost.
+ 3) Houshold brands should still be able to engage directly with consumers.
 
 iSign leverages standard iBeacons hardware, but uses a different engagement model that aims to deliver the three requirements above.
 
