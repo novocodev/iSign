@@ -42,7 +42,7 @@ This approach results is a model where one iBeacon UUID ==> subject-of-interest 
 
 ### Integrating with the Apple model of iBeacons
 
-iSign is not trying to compete with iBeacons, it is complimentry, when a retialers details are retrieved from the datbase, these may contain custom URL's that can be used to launch a retailer mobile App.
+iSign is not trying to compete with iBeacons, it is complimentry, when a retialers details are retrieved from the database, these may contain custom URL's that can be used to launch a retailer mobile App.
 
 In this way iSign acts as an iBeacon search portal, that hands off to a retailers vertical App if the user wishes to. But iSign also puts control in the hands of the user, to engage with iBeacon advertisments based on need, rather than on unsolcited push advertisemnts.
 
