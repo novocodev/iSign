@@ -11,7 +11,7 @@ Smaller retailers will find the cost of developing and marketing an App is a bar
 
 Some companies offer an umbrella model where multiple retailers can sign up to a service that uses just one app.  Competing solutions and household brands wanting full control of their App engagement will perpetuate the App explosion.
 
-Ultimately iBeacon deployment will be limited by ther vertical model recommended by Apple.
+Ultimately iBeacon deployment will be limited by the vertical model recommended by Apple.
 
 
 ## Democratising iBeacons
